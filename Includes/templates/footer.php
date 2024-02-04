@@ -8,7 +8,7 @@
 							<script type="text/javascript"> 
 								document.write(new Date().getFullYear())
 							</script>
-							Barber Shop Powered by JAIRI Idriss
+							Barber Shop Powered by yudhi
 						</div>
 					</div>
 					<div class="col-md-6 xs-padding">
